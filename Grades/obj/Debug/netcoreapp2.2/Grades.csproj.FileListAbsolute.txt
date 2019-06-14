@@ -1,0 +1,11 @@
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\bin\Debug\netcoreapp2.2\Grades.deps.json
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\bin\Debug\netcoreapp2.2\Grades.runtimeconfig.json
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\bin\Debug\netcoreapp2.2\Grades.runtimeconfig.dev.json
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\bin\Debug\netcoreapp2.2\Grades.dll
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\bin\Debug\netcoreapp2.2\Grades.pdb
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\obj\Debug\netcoreapp2.2\Grades.csprojAssemblyReference.cache
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\obj\Debug\netcoreapp2.2\Grades.csproj.CoreCompileInputs.cache
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\obj\Debug\netcoreapp2.2\Grades.AssemblyInfoInputs.cache
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\obj\Debug\netcoreapp2.2\Grades.AssemblyInfo.cs
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\obj\Debug\netcoreapp2.2\Grades.dll
+C:\Users\lema\Documents\UTN\ejemplo\Grades\Grades\obj\Debug\netcoreapp2.2\Grades.pdb
