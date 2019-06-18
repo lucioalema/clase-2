@@ -5,11 +5,37 @@ namespace Grades
 {
     public class GradeBook
     {
+        private List<float> grades;
+        private readonly string _name;
+
+        private string _lastName;
+        public string LastName
+        {
+            get { 
+                return _lastName;
+            }
+            set
+            {
+                if (!String.IsNullOrEmpty(value))
+                {
+                    if (_lastName != value)
+                    {
+                        NameChanged(_lastName, value);
+                        _lastName = value;
+                    }
+                }
+
+            }
+        }
         public GradeBook()
         {
             grades = new List<float>();
         }
-        private List<float> grades;
+        public GradeBook(string name)
+        {
+            grades = new List<float>();
+            _name = name;
+        }
 
         public void AddGrades(float grade)
         {
@@ -35,5 +61,6 @@ namespace Grades
         {
             return float.MinValue;
         }
+        public NameChangedDelegate NameChanged;
     }
 }
